@@ -2,14 +2,14 @@
   "logs": [
     {
       "id": 1,
-      "messsage": "wow big problem o no",
+      "message": "wow big problem o no",
       "attention": true,
       "date": "11-26-2019",
       "tech": "John Doe"
     },
     {
       "id": 2,
-      "messsage": "my monitor is being hacked",
+      "message": "my monitor is being hacked",
       "attention": false,
       "date": "11-26-2019",
       "tech": "Sam Smith"
