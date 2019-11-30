@@ -2,17 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "wow big problem o no",
-      "attention": true,
-      "date": "11-26-2019",
-      "tech": "John Doe"
+      "message": "gadang fixederup",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-11-29T20:47:10.527Z"
     },
     {
-      "id": 2,
-      "message": "my monitor is being hacked",
+      "message": "123",
       "attention": false,
-      "date": "11-26-2019",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2019-11-29T20:53:23.294Z",
+      "id": 2
     }
   ],
   "techs": [
